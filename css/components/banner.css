@@ -1,0 +1,29 @@
+.banner {
+  background-image: url("../../images/IMG_5921.JPG");
+  background-size: cover;
+  background-position: center;
+  padding: 200px 0;
+  color: white;
+}
+
+.banner h1 {
+  text-shadow: 1px 1px 1px gray;
+}
+
+.banner p {
+  margin-bottom: 30px;
+  font-weight: lighter;
+}
+
+.btn {
+  border-radius: 10%;
+  padding: 15px;
+  background-color: darkcyan;
+  color: white;
+  font-size: 10;
+  box-shadow: 0px 0px 2px gray;
+}
+
+.btn:hover {
+  background-color: gray;
+}

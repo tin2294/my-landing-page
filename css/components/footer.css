@@ -1,0 +1,24 @@
+.footer {
+  background-color: #2c2b2b;
+  height: 150px;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
+
+.footer .container {
+  display: block;
+}
+
+.footer .fab {
+  margin:8px;
+}
+
+.footer a {
+  color: darkgray;
+  font-size: 30px;
+}
+
+.footer p {
+  color: gray;
+}
